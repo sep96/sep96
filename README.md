@@ -15,6 +15,6 @@ I'm always eager to learn and stay updated with the latest technologies. Current
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sep96&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark)
 
 ## 🤝 Let's Connect
-- For professional inquiries, feel free to reach out via [email](sep7696@gmail.com).
+- For professional inquiries, feel free to reach out via sep7696@gmail.com .
 - [LinkedIn](https://www.linkedin.com/in/sepehr-ashtari-mahini-9275ab152/)
 - [Twitter](https://twitter.com/sep_96_)
