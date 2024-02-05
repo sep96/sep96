@@ -1,4 +1,4 @@
-# Hello, I'm SEPEHR ASHTARI MAHINI 👋
+# Hello, I'm SEPEHR 👋
 
 I'm a passionate C# backend developer with a keen interest in building robust and scalable applications. Welcome to my GitHub profile, where you can explore some of the projects I've been working on.
 
